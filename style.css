@@ -1,0 +1,33 @@
+.calc{
+    width: 400px;
+    /* height: 400px; */
+    background-color: black;
+    border-radius: 15px;
+   /* margin-left: 550px; */
+   /* margin-top: 50px; */
+
+}
+.screen{
+    width: 80%;
+    height: 50px;
+    border-radius: 10px;
+}
+
+h1{
+    color: #fff;
+}
+.btn{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    /* box-shadow:  0 0 30px ; */
+    box-shadow: -8px -8px 15px rgba(255, 255, 255, 0.1),5px 5px 15px rgba(0, 0,0.2);
+}
+#equal{
+    height: 140px;
+    width: 60px;
+    border-radius: 95px;
+}
+body{
+    background: gray;
+}
